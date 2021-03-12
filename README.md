@@ -10,4 +10,5 @@ Epitech C Graphical Programming (CSFML)
 
 # Gameplay
 Kill the ducks with your mouse cursor
+
 If you miss the duck 3 times, you loose
